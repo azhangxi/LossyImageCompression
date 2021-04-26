@@ -8,4 +8,5 @@ do not contain much color variability in the original image, but maintains detai
 image containing lots of variability.
 
 #Example
-
+![](PA3pic1.png)
+![](PA3pic2.png)
